@@ -6,31 +6,36 @@ I build full-stack web applications using React, Node.js, Express, and MongoDB. 
 
 ---
 
-## 🚀 What I've Built
+## 🚀 Featured Projects
 
 ### [Real-Time Chat Application](https://github.com/farmanali11/real-time-chat-app)
 Full-stack chat app with real-time messaging, online/offline status, and message-seen tracking.  
 **Tech:** React, Node.js, Express, MongoDB, Socket.IO, JWT  
-**Live:** [Demo Link](your-live-link)
+**Features:** Real-time communication, secure authentication, responsive UI  
 
 ### [AI-Powered DeepSeek Clone](https://github.com/farmanali11/deepseek-clone)
 AI web app with user authentication, persistent chat history, and DeepSeek API integration.  
 **Tech:** Next.js, Clerk Auth, MongoDB Atlas, Vercel  
-**Live:** [Demo Link](your-live-link)
+**Features:** User sessions, conversation storage, AI-powered responses
 
 ### [Inventory Management System](https://github.com/farmanali11/inventory-system)
 Django-React system deployed at NED University to replace paper-based requisition tracking.  
 **Tech:** Django, React, PostgreSQL  
-**Status:** Used by 5+ university departments
+**Impact:** Used by 5+ university departments for inventory tracking
+
+### [FlipEarn — Social Media Marketplace](https://github.com/farmanali11/flipearn)
+Full-stack PERN marketplace for buying and selling social media profiles with admin verification.  
+**Tech:** React, Node.js, PostgreSQL, Clerk Auth, Inngest, ImageKit  
+**Features:** User authentication, subscription billing, background jobs, image optimization, admin panel
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend:** React, Next.js, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express, REST APIs, Socket.IO  
+**Backend:** Node.js, Express, Django, REST APIs, Socket.IO  
 **Databases:** MongoDB, PostgreSQL  
-**Tools:** Git, Vercel, Render, JWT, Clerk Auth
+**Tools:** Git, Vercel, Render, JWT, Clerk Auth, Inngest, ImageKit
 
 ---
 
@@ -39,4 +44,4 @@ Django-React system deployed at NED University to replace paper-based requisitio
 - **Portfolio:** [farman-ali.vercel.app](https://farman-ali.vercel.app)
 - **LinkedIn:** [linkedin.com/in/farman-ali-187561268](https://www.linkedin.com/in/farman-ali-187561268/)
 - **Email:** farmanali.professional@gmail.com
-- **LeetCode:** [Farmaan110](https://leetcode.com/u/Farmaan110/) (150+ problems solved)
+- **LeetCode:** [Farmaan110](https://leetcode.com/u/Farmaan110/) — 150+ problems solved
