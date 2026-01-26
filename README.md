@@ -1,6 +1,6 @@
 # Hi, I'm Farman Ali
 
-**MERN Stack Developer** | CS Graduate from NED University
+**MERN Stack Developer** | **SWE  NEDUET'25**
 
 I build full-stack web applications using React, Node.js, Express, and MongoDB. Currently looking for my first software role where I can contribute quickly and keep learning.
 
