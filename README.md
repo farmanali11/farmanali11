@@ -13,10 +13,11 @@ Full-stack chat app with real-time messaging, online/offline status, and message
 **Tech:** React, Node.js, Express, MongoDB, Socket.IO, JWT  
 **Features:** Real-time communication, secure authentication, responsive UI  
 
-### [AI-Powered DeepSeek Clone](https://github.com/farmanali11/deepseek-clone)
-AI web app with user authentication, persistent chat history, and DeepSeek API integration.  
-**Tech:** Next.js, Clerk Auth, MongoDB Atlas, Vercel  
-**Features:** User sessions, conversation storage, AI-powered responses
+### [StyleSync-AI ](https://github.com/farmanali11/stylesync-ai)
+AI-powered business management platform for Pakistani clothing brands with real-time inventory tracking, revenue analytics, customer management, and a built-in AI assistant for daily operational insights.  
+**Tech:** React, Node.js, Express, MongoDB, Socket.IO, JWT ,LucideChart  
+**Features:** AI assistant for daily business briefings and forecasting, Customer relationship and transaction management, Smart inventory tracking with low-stock alerts 
+
 
 ### [Inventory Management System](https://github.com/farmanali11/inventory-system)
 Django-React system deployed at NED University to replace paper-based requisition tracking.  
