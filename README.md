@@ -6,7 +6,7 @@ I build full-stack web applications using React, Node.js, Express, and MongoDB. 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Real-Time Chat Application](https://github.com/farmanali11/real-time-chat-app)
 Full-stack chat app with real-time messaging, online/offline status, and message-seen tracking.  
@@ -31,7 +31,7 @@ Full-stack PERN marketplace for buying and selling social media profiles with ad
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** React, Next.js, JavaScript, Tailwind CSS  
 **Backend:** Node.js, Express, Django, REST APIs, Socket.IO  
@@ -40,7 +40,7 @@ Full-stack PERN marketplace for buying and selling social media profiles with ad
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - **Portfolio:** [farman-ali.vercel.app](https://farman-ali.vercel.app)
 - **LinkedIn:** [linkedin.com/in/farman-ali-187561268](https://www.linkedin.com/in/farman-ali-187561268/)
