@@ -8,11 +8,6 @@ I build full-stack web applications using React, Node.js, Express, and MongoDB. 
 
 ## Featured Projects
 
-### [Real-Time Chat Application](https://github.com/farmanali11/real-time-chat-app)
-Full-stack chat app with real-time messaging, online/offline status, and message-seen tracking.  
-**Tech:** React, Node.js, Express, MongoDB, Socket.IO, JWT  
-**Features:** Real-time communication, secure authentication, responsive UI  
-
 ### [StyleSync-AI ](https://github.com/farmanali11/stylesync-ai)
 AI-powered business management platform for Pakistani clothing brands with real-time inventory tracking, revenue analytics, customer management, and a built-in AI assistant for daily operational insights.  
 **Tech:** React, Node.js, Express, MongoDB, Socket.IO, JWT ,LucideChart  
@@ -32,7 +27,7 @@ Full-stack PERN marketplace for buying and selling social media profiles with ad
 ---
 
 ## Tech Stack
-
+### Web Development
 **Frontend:** React, Next.js, JavaScript, Tailwind CSS  
 **Backend:** Node.js, Express, Django, REST APIs, Socket.IO  
 **Databases:** MongoDB, PostgreSQL  
